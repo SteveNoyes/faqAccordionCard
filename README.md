@@ -30,7 +30,6 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-
 ### Links
 
 - Solution URL: [Github](https://github.com/SteveNoyes/faqAccordionCard)
@@ -71,16 +70,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [w3schools](https://www.w3schools.com/howto/howto_js_accordion.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Portfolio](https://www.stevenmnoyes.com)
 - Frontend Mentor - [@SteveNoyes](https://www.frontendmentor.io/profile/SteveNoyes)
+- Website - [Portfolio](https://www.stevenmnoyes.com)
 - LinkedIn - [Steven Noyes](https://www.linkedin.com/in/steven-noyes/)
-
-
 
 ## Sharing solution
 
